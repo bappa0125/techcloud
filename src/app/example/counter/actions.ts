@@ -16,7 +16,7 @@ export interface ICounterActions {
 export const CounterActions: ICounterActions = {
   async increment({ commit, state }: ActionContext<ICounterState, IState>) {
     commit('SET_INCREMENT_PENDING', true);
-
+     
     try {
       const res = await HttpService.put<ICounterResponse>('/counter/increment', { count: state.count });
 

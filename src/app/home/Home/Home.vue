@@ -5,22 +5,27 @@
       image="https://images.unsplash.com/photo-1549082984-1323b94df9a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=512&q=60"
       alternative
     >
-      <vue-headline level="2">Developer Experience</vue-headline>
+      <vue-headline level="2">Unified Learning platform</vue-headline>
       <br />
-      <vue-headline level="3">Quick scaffolding</vue-headline>
-      <p>Create components, VueX connected components, modules - and their tests - right from the CLI!</p>
+      <vue-headline level="3">Authomated Lab Provisioning</vue-headline>
+      <p>On demand AWS lab provisioning , fully automated, secured,goverened , self destructive</p>
       <br />
-      <vue-headline level="3">Instant feedback</vue-headline>
+      <vue-headline level="3">Instant Automated feedback</vue-headline>
       <p>
-        Enjoy the best DX (Developer eXperience) and code your app at the speed of thought! Your saved changes to the
-        CSS and TypeScript are reflected instantaneously without refreshing the page or restarting your server. Preserve
-        application state even when you update something in the underlying code!
+        Cloud Labs are different than coding or multiple choice quetions may need an expert to judge the 
+        final out come. Platfrom will give fully automated instant feedback about student , progress , errors, possible solutions
+        at scale each time every time
+
       </p>
       <br />
       <vue-headline level="3">Tons of use-cases</vue-headline>
       <p>
-        e.g. HttpService with interceptors, vuex persist middleware, redirect scenarios, configs for different
-        environments, etc.
+        <ul>
+          <li>Learning and Knowledge management</li>
+          <li>POC , Rapid prototyping team</li>
+          <li>Hackathon , code Jams</li>
+          <li>Internal external hiring </li>
+        </ul>
       </p>
     </home-section>
 
@@ -30,21 +35,19 @@
     >
       <vue-headline level="2">Enterprise ready</vue-headline>
       <br />
-      <vue-headline level="3">SEO</vue-headline>
+      <vue-headline level="3">Real time Scenarios</vue-headline>
       <p>
-        We support SEO (document head tags management) and server-side-rendering for search engines that support
-        indexing of JavaScript content. (eg. Google)
+        We provide real time eterprise level content which can solve customr problems.
       </p>
       <br />
       <vue-headline level="3">Best practices</vue-headline>
       <p>
-        A Common style guide, TypeScript, and the best test setup: Automatically guarantee code quality and non-breaking
-        changes.
+        All the scenarios embibe best practices, updated with latest srvices , vendor agonisitic 
       </p>
       <br />
-      <vue-headline level="3">i18n</vue-headline>
+      <vue-headline level="3">True Cloud experience Or Native Hosting </vue-headline>
       <p>
-        Scalable apps need to support multiple languages, easily add and support multiple languages with vue-i18n.
+        You can host the platfrom in your enviornment or use the Cloud subscription model
       </p>
     </home-section>
 
@@ -54,22 +57,22 @@
     >
       <vue-headline level="2">User experience</vue-headline>
       <br />
-      <vue-headline level="3">Animations</vue-headline>
+      <vue-headline level="3">Animated Help -Student</vue-headline>
       <p>
-        A stable animations set up already included (<a href="http://animejs.com/" target="_blank" rel="noopener"
-          >anime.js</a
-        >).
+       Student can het animated help with guided navigation within the platfrom 
       </p>
       <br />
-      <vue-headline level="3">Progressive-Web-App</vue-headline>
+      <vue-headline level="3">Detailed Dash board </vue-headline>
       <p>
-        Offline-first support with service-workers and a lighthouse score as high as possible (90+).
+        Both student and evaluation team can see detailed steps of each and every assignment through a comprehensive
+        logging mechanism 
       </p>
       <br />
       <vue-headline level="3">Design System</vue-headline>
       <p>
-        Includes a blueprint for a 100% customizable Design System with a huge amount of
-        <a href="/storybook" target="_blank" rel="noopener">components</a>.
+        Includes a blueprint for a 100% customizable Design System with a huge amount of enterprise level case business
+        cases 
+        
       </p>
     </home-section>
 

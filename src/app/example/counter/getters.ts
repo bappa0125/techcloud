@@ -16,4 +16,4 @@ export const CounterGetters: ICounterGetters = {
   count(state: ICounterState): number {
     return state.count;
   },
-};
+}; 
